@@ -1,0 +1,2 @@
+I just started learning code on Odin project
+I hope it will be an interesting journey
